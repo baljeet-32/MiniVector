@@ -27,5 +27,5 @@ system-level C++ experience useful for performance-critical software.
 
 ## Build & Run
 ```bash
-g++ -std=c++17 MiniVector.cpp main.cpp -o a.exe
+g++ .\main.cpp .\minivector.cpp -o a.exe
 .\a.exe
